@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="signup">Sign up</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="checkboxtext">By Creating an account you agree to our Terms of Service and Privacy Policy</string>
+    <string name="alreadyaccount">Already have not an account?</string>
+    <string name="signinbtn">Sign In!</string>
+</resources>
